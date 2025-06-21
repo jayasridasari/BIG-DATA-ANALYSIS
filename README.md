@@ -52,4 +52,12 @@ Key Insights
 
 ->Time-based features extracted for deeper trend analysis
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/9ffe2e16-04d7-46df-9708-ebb846668e0c)
+
+![Image](https://github.com/user-attachments/assets/7218d480-00a7-474f-a3c0-27b6130767af)
+
+![Image](https://github.com/user-attachments/assets/6d2ffa6e-5716-4002-a965-43846df4f8cb)
+
 
