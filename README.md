@@ -4,13 +4,13 @@
 
 *NAME*: DASARI JAYASRI
 
-*INTERN ID*: 
+*INTERN ID*:  CT04DF555
 
-*DOMAIN*: 
+*DOMAIN*: DATA ANALYTICS
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTHOSH
 
 *DESCRIPTION*: This project demonstrates big data analysis using PySpark on a real-world taxi fare dataset from Kaggle. It showcases how scalable processing can be achieved even with moderate hardware by leveraging the PySpark engine for efficient data transformations and aggregations.
 
